@@ -18,7 +18,7 @@
     "url": "https://github.com/reactjs/react-art.git"
   },
   "dependencies": {
-    "art": "^0.10.1",
+    "art": "https://github.com/VostroNet/art.git",
     "fbjs": "^0.8.1",
     "object-assign": "^4.0.1"
   },
